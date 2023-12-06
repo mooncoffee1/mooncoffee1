@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mooncoffee</h1>
+<h1 align="center">Hi 👋, I'm mooncoffee aka Nick</h1>
 <h3 align="center">A passionate frontend developer, who is in love with linux's freedom of customizing</h3>
 
 - 🔭 I’m currently working on [hyprland-rice](https://github.com/mooncoffee1/gruvbox-hyprland.git)
